@@ -1,10 +1,1 @@
-# This is a test file
-
-print(1 + 1)
-
-# New line is added here.
-import pandas as pd
-print(pd.DataFrame
-      )
-
-#%%
+# New Test for PyCharm 2024.2.1 Community Edition on PC 138232 on 3 Sep. 2024.
