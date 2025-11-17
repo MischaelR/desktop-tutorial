@@ -1,1 +1,2 @@
-# New Test for PyCharm 2024.2.2 Pro on LAP122594 on 23 Sep. 2024 using JetBrains Toolbox.
+# New Test for PyCharm 2025.2.4 Pro on PC139328 on 17 Nov. 2025 using
+# JetBrains Toolbox and new certificates.
